@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417066045368",
+    "project_id": "tutor-finder-app-12",
+    "storage_bucket": "tutor-finder-app-12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417066045368:android:4cbb75bb9f4b448740494d",
+        "android_client_info": {
+          "package_name": "com.example.tutor_finder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDtBZeJ5Ek9E6hk4c2tiRVjiPg_Eja2pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
