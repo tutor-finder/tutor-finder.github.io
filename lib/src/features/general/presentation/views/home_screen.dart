@@ -8,15 +8,12 @@ class AHomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AAppBar(text: 'Tutor Finder'),
+      appBar: AAppBar(isSignIn: true, isSignUp: true, isSearch: true),
       body: SafeArea(
-        child: Container(
-          color: APalette.white,
-          child: Column(
-            children: [
-              Row(children: [Expanded(child: Text('data'))]),
-            ],
-          ),
+        child: Column(
+          children: [
+            Row(children: [Expanded(child: Text('data'))]),
+          ],
         ),
       ),
     );
